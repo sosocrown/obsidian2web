@@ -8,7 +8,7 @@ description= "niki'blog"
 
 [output.html]
 # defaulr dark theme
-default-theme = "navy"
+default-theme = "default"
 # for Chinese search
 additional-js = ["assets/fzf.umd.js", "assets/elasticlunr.js", "assets/reference.js", "assets/highlight.js", "theme/pagetoc.js"]
 additional-css = ["assets/utils.css", "theme/pagetoc.css"]
