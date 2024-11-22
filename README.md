@@ -581,4 +581,4 @@ ansible-galaxy role list
 
 
 # 九、ansible-vault
-`ansible-vault` 是一个用于加密和解密敏感数据的工具。它允许你以加密的形式存储敏感信息，如密码、密钥或任何其他敏感数据，以确保这些信息在Playbooks和变量文件中不会被暴露。
+`ansible-vault` 是一个用于加密和解密敏感数据的工具。它允许你以加密的形式存储敏感信息，如密码、密钥或任何其他敏感数据，以确保这些信息在Playbooks和变量文件中不会被暴露
